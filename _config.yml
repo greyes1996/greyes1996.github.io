@@ -104,19 +104,19 @@ author:
       # url: mailto:greyes0225@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://greyes1996.github.io"
+      url: "https://greyes1996.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/geyes1996"
+      url: "https://twitter.com/geyes1996"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/gabe.reyes.50"
+      url: "https://facebook.com/gabe.reyes.50"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/greyes1996"
+      url: "https://github.com/greyes1996"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/geyes7437"
+      url: "https://instagram.com/geyes7437"
 
 # Site Footer
 footer:
