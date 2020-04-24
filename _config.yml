@@ -97,26 +97,26 @@ author:
   avatar           : https://avatars3.githubusercontent.com/u/50083139?s=460&u=55169559c0c5b2646ed54b9d517973b5ec80b61c&v=4
   bio              : "Neuroscience and Education Graduate Student at Columbia University"
   location         : "New York, NY"
-  email            : g.reyes0225 [@] gmail.com
+  email            : g.reyes0225@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:greyes0225@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://greyes1996.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://twitter.com/geyes1996"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://facebook.com/gabe.reyes.50"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/greyes1996"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/geyes7437"
 
 # Site Footer
 footer:
