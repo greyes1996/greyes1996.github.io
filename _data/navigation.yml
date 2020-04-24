@@ -6,9 +6,11 @@ main:
     url: /about/
   - title: "Blog"
     url: /blog/
-  - title: "CV"
-    url: /CV/
   - title: "Research"
     url: /research/
   - title: "Teaching" 
     url: /teaching/
+  - title: "DEI"
+    url: /dei/
+  - title: "CV"
+    url: /CV/
