@@ -1,5 +1,10 @@
 ---
 title: Reflections on teaching middle school students
+categories:
+  - Teaching 
+  - Education
+tags:
+  - reflections
 ---
 *Note from author: This post was transferred from my [Medium page](https://medium.com/@geyes) on April 19th, 2020. All future blog posts will be posted on my GitHub page.* 
 
