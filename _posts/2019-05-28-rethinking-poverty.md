@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rethinking poverty, the brain, and education
 published: true
 comments: true
