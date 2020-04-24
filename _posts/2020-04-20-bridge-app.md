@@ -1,5 +1,8 @@
 ---
 title: Columbia Bridge to the PhD Essays & Interview Questions
+comments: true
+categories: Graduate School
+tags: applications
 ---
 
 Last year, I had the chance to interview with [Columbia's Bridge to the PhD in STEM program](https://bridgetophd.facultydiversity.columbia.edu/). This is a 2-year predoctoral award to research at a lab at Columbia's campus. I was accepted and matched to work with [Dr. Daphna Shohamy](https://shohamylab.zuckermaninstitute.columbia.edu/people/daphna-shohamy-phd), but ultimately declined to pursue an MS at Teachers College instead (but stayed in Daphna's lab as a graduate RA!). 
