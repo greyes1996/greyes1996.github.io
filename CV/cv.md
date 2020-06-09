@@ -9,24 +9,22 @@ permalink: /cv/
 
 You can access and view my full CV [HERE.](https://docs.google.com/document/d/1OrH4y00ohf-tMxeit2iNLg1f2ngMRq-P04Gsi8EXJzk/edit)
 
+**First-Generation Graduate Student **
 
 
-    **First-Generation Graduate Student **
+_Department of Biobehavioral Sciences_
 
 
-    _Department of Biobehavioral Sciences_
+**Mobile**: 	+1 (505) 804-0225
 
 
-    **Mobile**: 	+1 (505) 804-0225
+**Email**:	[g.reyes0225@gmail.com](mailto:g.reyes0225@gmail.com)
 
 
-    **Email**:	[g.reyes0225@gmail.com](mailto:g.reyes0225@gmail.com)
+**Website**: 	[greyes1996.github.io](greyes1996.github.io)
 
 
-    **Website**: 	[greyes1996.github.io](greyes1996.github.io)
-
-
-    **Twitter**: 	[@geyes7437](https://twitter.com/geyes1996)
+**Twitter**: 	[@geyes7437](https://twitter.com/geyes1996)
 
 
 # **EDUCATION**
@@ -38,23 +36,23 @@ You can access and view my full CV [HERE.](https://docs.google.com/document/d/1O
 
 Aug. 2019 - May 2021	**Columbia University**
 
-**_	M.S. Candidate in Neuroscience & Education _**
+**_M.S. Candidate in Neuroscience & Education _**
 
-**	<span style="text-decoration:underline;">Graduate Advisor:</span>** Karen Froud, Ph.D. 
+**<span style="text-decoration:underline;">Graduate Advisor:</span>** Karen Froud, Ph.D. 
 
 
 
-*   Relevant Coursework: Applied Regression Analysis, Beyond Regression: Diving Into Data Analysis, Application, and Ethics
+*Relevant Coursework: Applied Regression Analysis, Beyond Regression: Diving Into Data Analysis, Application, and Ethics
 
 Sep. 2014 - May 2018	**Brown University**
 
-_	Sc.B. in Cognitive Neuroscience (Honors)_
+_Sc.B. in Cognitive Neuroscience (Honors)_
 
-	<span style="text-decoration:underline;">Honors Advisor:</span> Leslie Welch, Ph.D.; Concentration Advisor: William Heindel, Ph.D. 
+<span style="text-decoration:underline;">Honors Advisor:</span> Leslie Welch, Ph.D.; Concentration Advisor: William Heindel, Ph.D. 
 
 
 
-*   Relevant Coursework: Linear Algebra, Multivariate Calculus, Neuroscience Graduate Statistics, Functional Magnetic Resonance Imaging: Theory & Practice, Race & Gender in the Scientific Community
+*Relevant Coursework: Linear Algebra, Multivariate Calculus, Neuroscience Graduate Statistics, Functional Magnetic Resonance Imaging: Theory & Practice, Race & Gender in the Scientific Community
 
 
 # **HONORS, FELLOWSHIPS, AND AWARDS**
@@ -384,6 +382,6 @@ Feb. 2019:	Brown University Alumni Admissions Interviewer (interviewed 10 studen
 
 **Experimental Design:** PsychoPy, Tellab, jsPsych
 
-**Languages: **Spanish (native), English (fluent), Japanese (beginner) 
+**Languages:** Spanish (native), English (fluent), Japanese (beginner) 
 
-**Hobbies: **Films, Cooking, Hiking, Running, Writing/Blogging
+**Hobbies:** Films, Cooking, Hiking, Running, Writing/Blogging
