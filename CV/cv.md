@@ -1,10 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /cv/
+permalink: /CV/
 ---
 
-</head>
 <body>
  <h1> CV</h1>
  <font size="3">
