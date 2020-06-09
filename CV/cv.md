@@ -3,3 +3,36 @@ layout: single
 author_profile: true
 permalink: /cv/
 ---
+
+</head>
+<body>
+ <h1> CV</h1>
+ <font size="3">
+  <p class="paragraph_style_link"><a href="GabrielReyes_CV.pdf">Download full CV as PDF </a></p>
+ </font>
+ 
+<h2> Education</h2>
+ <style>
+  p.paragraph_style_1{ padding-top: 5pt;}
+  p.paragraph_style_appt{ padding-left: 130pt;}
+  p.paragraph_style_link{ font-size=120%; color: black;}
+  </style>
+<font size="3">
+ 
+                <p>2018 - present &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-weight:bold">University of Pennslyvania</span>  </p>
+                <p class="paragraph_style_appt">  MindCORE Postdoctoral Research Fellowship <br>  The Changing Brain Lab (PI: Allyson Mackey)     
+                <br> Advisory committee: Angela Duckworth, Martha Farah, Joe Kable <br></p> <br>
+ 
+                <p>2013 - 2018 &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-weight:bold">Massachusetts Institute of Technology</span>  </p>
+                <p class="paragraph_style_appt">  Ph.D. in Brain and Cognitive Science<br>  Early Childhood Cognition Lab (PI: Laura Schulz)     
+                <br> Cognitive and Affective Neuroscience Lab (PI: John Gabrieli)<br> Dissertation: Social Influences on Children’s Learning <br></p> <br>
+               
+               
+                <p class="paragraph_style_1">2007 - 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight:bold">Wesleyan University</span></p>
+                <p class="paragraph_style_appt"> B.A. in Neuroscience and Behavior (High Honors) <br>Cognitive Development Labs (PI: Anna Shusterman)<br>
+                Honors Thesis: The Effects of Touch on Compliance in Preschool-Age Children <br></p> <br>
+                
+
+
+  
+</font>
