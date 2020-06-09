@@ -1,7 +1,5 @@
 ---
 layout: single
 author_profile: true
-permalink: /cv/
+permalink: /assets/GabrielReyes_CV.pdf/
 ---
-
-Stay tuned!
