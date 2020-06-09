@@ -9,7 +9,7 @@ permalink: /cv/
 
 You can access and view my full CV [HERE.](https://docs.google.com/document/d/1OrH4y00ohf-tMxeit2iNLg1f2ngMRq-P04Gsi8EXJzk/edit)
 
-**First-Generation Graduate Student **
+**First-Generation Graduate Student**
 
 
 _Department of Biobehavioral Sciences_
@@ -112,7 +112,7 @@ _Sc.B. in Cognitive Neuroscience (Honors)_
 
 2. **Reyes, G. **(2017, Nov.). Leave safe spaces alone. _Brown Daily Herald._ [**[LINK](http://www.browndailyherald.com/2016/10/05/reyes-18-leave-safe-spaces-alone/)**]
 
-**RESEARCH PRESENTATIONS**
+# **RESEARCH PRESENTATIONS**
 
 
 
