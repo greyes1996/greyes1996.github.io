@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-Hola! I am an MS student in the Biobehavioral Department at Teachers College, Columbia University, working in Daphna Shohamy's Learning Lab. *I am currently applying to doctoral programs:* [HERE](https://docs.google.com/document/d/1OrH4y00ohf-tMxeit2iNLg1f2ngMRq-P04Gsi8EXJzk/edit) is my current CV. I am broadly interested in the realm of stress, reward learning, decision-making, and memory. I have a proclivity for investigating developmental populations such as adolsecents as well as individuals who experienced early life adversity (e.g., poverty). 
+Hola! I am an MS student in the Biobehavioral Department at Teachers College, Columbia University, working in Daphna Shohamy's Learning Lab. *I am currently applying to doctoral programs:* [HERE](https://docs.google.com/document/d/1OrH4y00ohf-tMxeit2iNLg1f2ngMRq-P04Gsi8EXJzk/edit) is my current CV. I am broadly interested in the realm of stress, reward learning, decision-making, and memory.  
 
 To learn more about me, I recommend reading my [About](https://greyes1996.github.io/about/) which highlights my story to science, my general philosophy, and my research interests (in significantly more detail!). If you want to get a sense of what I think, take a look at my [Blogs](https://greyes1996.github.io/blog). 
 
