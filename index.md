@@ -1,7 +1,10 @@
 ---
 layout: single
+title: My Personal Site
 author_profile: true
 ---
+
+*I am currently experimenting with GitHub pages to migrate my blog and personal site here — please bare with me through this transition as I try my best to learn this admist a global pandemic!*
 
 Hola! I am an MS student in the Biobehavioral Department at Teachers College, Columbia University, working in Daphna Shohamy's Learning Lab. *I am currently applying to doctoral programs:* [HERE](https://docs.google.com/document/d/1OrH4y00ohf-tMxeit2iNLg1f2ngMRq-P04Gsi8EXJzk/edit) is my current CV. I am broadly interested in two areas: brain development and learning. 
 
