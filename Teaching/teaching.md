@@ -1,13 +1,11 @@
 ---
 layout: single
-author_profile: true
 title: My Teaching Experience
 permalink: /teaching/
 ---
 
 *Please bare with me! I am transferring my Google Sites information to GitHub one piece at a time! For more info on this, please refer to my CV or you can go to my previous website at www.gabriel-reyes.com*
 
-Details forthcoming that this page will include are the following:
 ### Data, Activated! 
 
 During the summer of 2020, I was a Data, Activated! TA (DATA) where I directly mentored 8 students in the Opportunity Network Fellowship program. 
