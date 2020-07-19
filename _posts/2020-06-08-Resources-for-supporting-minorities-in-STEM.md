@@ -1,5 +1,5 @@
 ---
-title: Why I am afraid to write
+title: Resources for supporting URMs in STEM
 comments: true
 ---
 
