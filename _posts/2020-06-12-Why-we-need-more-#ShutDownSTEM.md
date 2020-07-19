@@ -1,3 +1,10 @@
+---
+title: Why we need more #ShutDownSTEM
+date: 2020-06-12
+layout: post
+comments: true
+---
+
 June 10th was a historic day for science: **[thousands around the world](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)** participated in the  #ShutDownSTEM or #ShutDownAcademia protest. According to **[the official website](https://www.shutdownstem.com/)**, the purpose was to disrupt typical operations—”no research, no meetings no classes, no business as usual”—and instead spend the day learning about racism and provide resources in support of Black lives. 
 
 For a field that often prides itself in its “objectivity,” this is a revolutionary moment because, in my experience, discussions of diversity, equity, and inclusion in science are often met with staunch resistance: “data sees no color.” While, sure, neither my regression models nor my code has any comprehension of race, class, and gender, scientists sure do, and our statistics and analysis reflect these biases whether we’re cognizant of them or not. Nevertheless, perhaps today, scientists will critically engage and teach one another to collectively forge a more inclusive science.
