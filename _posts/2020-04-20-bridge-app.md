@@ -1,5 +1,6 @@
 ---
 title: Columbia Bridge to the PhD Essays & Interview Questions
+layout: post
 comments: true
 categories: 
   - Graduate School
