@@ -1,3 +1,10 @@
+---
+title: Why I am afraid to write
+date: 2019-05-20
+layout: post
+comments: true
+---
+
 *Note from author: This post was transferred from my [Medium page](https://medium.com/@geyes) on April 19th, 2020. All future blog posts will be posted on my GitHub page.* 
 
 At the start of writing this, I have 16 blog entries in my personal Google Drive folder and another 31 in my University account — all of which I planned to share. However, when it came time to post them on my Medium page, I froze. I would close the tab, move to another project as an excuse until another idea inspired me to write only to repeat the cycle. Originally, I was planning to write about how my insecurities are distracting me from pursuing Ph.D. applications, but I knew that blog would share the same fate as the ones before it: never materializing on my Medium account.
