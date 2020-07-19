@@ -1,7 +1,6 @@
 ---
-title: Why we need more "#ShutDownSTEM"
+title: Why we need more #ShutDownSTEM
 date: 2020-06-12
-layout: post
 comments: true
 ---
 
