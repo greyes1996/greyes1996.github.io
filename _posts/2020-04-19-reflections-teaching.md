@@ -1,6 +1,5 @@
 ---
 title: Reflections on teaching middle school students
-layout: post
 comments: true
 categories:
   - Teaching 
