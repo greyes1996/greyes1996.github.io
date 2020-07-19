@@ -1,7 +1,6 @@
 ---
 title: Why I am afraid to write
 date: 2019-05-20
-layout: post
 comments: true
 ---
 
