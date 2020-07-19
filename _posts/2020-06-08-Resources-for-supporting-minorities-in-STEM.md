@@ -1,6 +1,5 @@
 ---
 title: Why I am afraid to write
-layout: post
 comments: true
 ---
 
