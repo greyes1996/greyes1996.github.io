@@ -1,5 +1,6 @@
 ---
 title: Rethinking poverty, the brain, and education
+layout: post
 comments: true
 categories:
   - Mind, Brain, & Education
