@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+toc: true
 permalink: /research/
 ---
 
