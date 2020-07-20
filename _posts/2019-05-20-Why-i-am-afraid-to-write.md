@@ -1,7 +1,11 @@
 ---
 title: Why I am afraid to write
-date: 2019-05-20
+layout: single
+author_profile: true
+read_time: true
 comments: true
+share: true
+related: true
 ---
 
 *Note from author: This post was transferred from my [Medium page](https://medium.com/@geyes) on April 19th, 2020. All future blog posts will be posted on my GitHub page.* 
