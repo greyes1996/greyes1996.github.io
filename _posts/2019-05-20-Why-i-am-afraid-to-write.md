@@ -24,6 +24,3 @@ Nevertheless, moving forward, I want to publicly commit to the following:
 3. **Sharing the posts I am most proud of.** I don’t want to get in the habit of posting every single thing, but I do want to acknowledge the ones I feel are most meaningful to me in my attempts to feel more comfortable with people reading my work. Eventually, I am going to want to publish a study and even then I can imagine how afraid I’ll be submitting to a journal. Prior to that, I hope to be able to post on Facebook or some form of social media the ones that mattered the most to me. Maybe, if I’m courageous enough, even submitting to major publishers like the New York Times.
 
 This is by no means an exhaustive list, as I anticipate it will be refined with time. Additionally, I don’t think that my erroneous fears will be ameliorated any time soon and I may even struggle to commit to the aforementioned promises — but it’s a step in the right direction.
-
-
-{% include disqus.html %}
