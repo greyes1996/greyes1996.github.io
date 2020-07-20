@@ -1,6 +1,7 @@
 ---
 layout: single
 title: My Personal Site
+classes: wide
 author_profile: true
 ---
 
