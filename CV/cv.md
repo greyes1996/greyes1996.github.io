@@ -6,26 +6,7 @@ toc: true
 permalink: /cv/
 ---
 
-*I am currently experimenting with GitHub pages to migrate my blog and personal site here — please bare with me through this transition as I try my best to learn this admist a global pandemic!*
-
 You can access and view my full CV [HERE.](https://docs.google.com/document/d/1OrH4y00ohf-tMxeit2iNLg1f2ngMRq-P04Gsi8EXJzk/edit)
-
-**First-Generation Graduate Student**
-
-
-_Department of Biobehavioral Sciences_
-
-
-**Mobile**: 	+1 (505) 804-0225
-
-
-**Email**:	[g.reyes0225@gmail.com](mailto:g.reyes0225@gmail.com)
-
-
-**Website**: 	[greyes1996.github.io](greyes1996.github.io)
-
-
-**Twitter**: 	[@geyes7437](https://twitter.com/geyes1996)
 
 
 # **EDUCATION**
