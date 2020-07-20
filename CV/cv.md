@@ -11,86 +11,48 @@ You can access and view my full CV [HERE.](https://docs.google.com/document/d/1O
 
 # **EDUCATION**
 
-
-
 ---
 
+**Columbia University** | Sept. 2019 - May 2021 (expected)
 
-Aug. 2019 - May 2021	**Columbia University**
-
-**_M.S. Candidate in Neuroscience & Education _**
-
-**<span style="text-decoration:underline;">Graduate Advisor:</span>** Karen Froud, Ph.D. 
-
-
-
-*Relevant Coursework: Applied Regression Analysis, Beyond Regression: Diving Into Data Analysis, Application, and Ethics
+*M.S. Candidate in Neuroscience & Education*
 
 Sep. 2014 - May 2018	**Brown University**
 
 _Sc.B. in Cognitive Neuroscience (Honors)_
 
-<span style="text-decoration:underline;">Honors Advisor:</span> Leslie Welch, Ph.D.; Concentration Advisor: William Heindel, Ph.D. 
-
-
-
-*Relevant Coursework: Linear Algebra, Multivariate Calculus, Neuroscience Graduate Statistics, Functional Magnetic Resonance Imaging: Theory & Practice, Race & Gender in the Scientific Community
-
 
 # **HONORS, FELLOWSHIPS, AND AWARDS**
 
-
-
 ---
 
-
-2020	Education Pioneers Fellowship
-
-2020 	Teachers College Minority Scholarship
-
-2020	Teachers College Dean’s Grant for Student Research 
-
-2019	4.0 Essentials Fellowship
-
-2019	Teachers College Arthur Zankel Urban Fellowship
-
-2019	Columbia University Bridge to the Ph.D. in STEM Predoctoral Scholars Program _(Declined)_
-
-2018	Alfred H. Joslin Award for Outstanding Seniors at Brown University
-
-2018	Elected to Sigma Xi: The Scientific Research Honor Society
-
-2017	Research at Brown Award
-
-2017	Institute for the Recruitment of Teachers Fellowship _(Declined)_
-
-2016	World Economic Forum Albuquerque Global Shaper
-
-2016	Congressional Hispanic Caucus Institute Scholarship
-
-2015 - 2018	Future Global Leaders Fellowship
-
-2015	Careers for the Common Good in New York City Award
-
-2015	Brown University Conte First-Generation Scholarship
-
-2014 - 2029	Gates Millennium Scholarship
-
-2013	QuestBridge Scholarship
-
-
+* Education Pioneers Data Science Summer Fellowship (2020)
+* Teachers College Minority Scholarship (2020)
+* Teachers College Dean's Grant for Student Research (2019)
+* 4.0 Essentials Fellowship (2019)
+* Teachers College Arthur Zankel Fellowship (2019)
+* Columbia Bridge to the Ph.D. in STEM Predoctoral Scholars Program (2019; *declined*)
+* Alfred H. Joslin Award for Oustanding Seniors at Brown University (2018)
+* Elected to Sigma Xi: The Scientific Research Honor Society (2018)
+* Research at Brown Award (2017)
+* Institute for the Recruitment of Teachers Fellowship (2017 *declined*)
+* World Economic Forum Albuquerque Global Shaper (2016)
+* Congressional Hispanic Caucus Institute Scholarship (2016)
+* Future Global Leaders Fellowship (2015)
+* Careers for the Common Good in New York City Grant (2015)
+* Brown University Conte First-Generation Scholarship (2015)
+* Gates Millennium Scholarship (2014)
+* QuestBridge Scholarship (2013)
 
 
 # **SELECTED NON-ACADEMIC PUBLICATIONS**
 
-
-
 ---
 
 
 
 
-1. **Reyes, G. **(2019, Oct.). From poverty to the lab: Navigating science amidst financial adversity. _Stories in Science._ [**[LINK](https://storiesinscience.org/2019/10/15/from-poverty-to-science/)**] \
+1. **Reyes, G. **(2019, Oct.). From poverty to the lab: Navigating science amidst financial adversity. _Stories in Science._ [**[LINK](https://storiesinscience.org/2019/10/15/from-poverty-to-science/)**] 
 
 2. **Reyes, G. **(2017, Nov.). Leave safe spaces alone. _Brown Daily Herald._ [**[LINK](http://www.browndailyherald.com/2016/10/05/reyes-18-leave-safe-spaces-alone/)**]
 
@@ -139,7 +101,7 @@ _*Denotes equal contribution_
 
 
 
-## Graduate Research Assistant							Aug. 2019 – Present
+## Graduate Research Assistant
 
 _Columbia | Zuckerman Mind Brain Behavior Institute Learning Lab			New York, NY_
 
