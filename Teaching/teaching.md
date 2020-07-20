@@ -1,6 +1,7 @@
 ---
 title: My Teaching Experience
 toc: true
+permalink: /teaching/
 ---
 
 *Please bare with me! I am transferring my Google Sites information to GitHub one piece at a time! For more info on this, please refer to my CV or you can go to my previous website at www.gabriel-reyes.com*
