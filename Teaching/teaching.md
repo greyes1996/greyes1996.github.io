@@ -1,6 +1,7 @@
 ---
 title: My Teaching Experience
 layout: single
+author_profile: true
 toc: true
 permalink: /teaching/
 ---
