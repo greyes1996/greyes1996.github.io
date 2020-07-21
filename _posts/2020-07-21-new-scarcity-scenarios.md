@@ -27,9 +27,9 @@ That is why, for the first part of my thesis project, <u>I’ve designed some ag
 
 All of these are currently in their draft stage, and prior to incorporating them into a behavioral task, I will be distributing them for some initial data on how stress-inducing they are by age and family income level. The hope is that this will provide some support that they have a similar impact as the original scenarios did in the 2013 paper. And, if this works, these could be useful to explore in a reward learning task *and* maybe with some neuroimaging designs (which, to the best of my knowledge, has not been done as much? [^2]). 
 
-[^1] A potential study perhaps??
+[^1]: A potential study perhaps??
 
-[^2] Another potential study perhaps??
+[^2]: Another potential study perhaps??
 
 
 
