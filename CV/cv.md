@@ -6,7 +6,7 @@ toc: true
 permalink: /cv/
 ---
 
-You can access and view my full CV [HERE.](https://docs.google.com/document/d/1OrH4y00ohf-tMxeit2iNLg1f2ngMRq-P04Gsi8EXJzk/edit)
+You can access and [view the PDF here]({{ site.url }}/assets/GabrielReyes_CV.pdf)
 
 
 # **EDUCATION**
