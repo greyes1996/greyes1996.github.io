@@ -12,7 +12,11 @@ In their original experiment, Mani et al. (2013) asked New Jersey mall shoppers 
 
 After thinking through 4 similar financial scenarios and completing the task, the experimenters wanted to observe how performance would have differed based on the difficulty of the scenario (a hard financial situation versus an “easier” one) and how this differ based on income. Below is one of the figures reported, which highlights that accuracy was only affected in low-income participants *if* they were exposed to financially difficult questions. 
 
+{: .center}
 ![ManiFig]({{ site.url }}/assets/ManiFig1.png)
+
+*Figure 1 adapted from Mani et al. (2013)*
+{:.image-caption}
 
 While the 4 scenarios from this paper would be terrific additions for my thesis project, they are not exactly applicable to a younger age group. For example, the above scenario is only applicable to demographics with jobs *and* them relying on their employment to meet basic needs. Thus, students in high school to think about how a 15% pay cut would affect them may not induce the same level of stress as it might if I asked their parents [^1]. 
 
