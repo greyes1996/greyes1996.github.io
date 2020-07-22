@@ -6,7 +6,7 @@ For my MS thesis, I want to explore how poverty *may* affect learning and memory
 
 In their original experiment, Mani et al. (2013) asked New Jersey mall shoppers to review 4 hypothetical financial scenarios prior to engaging in a cognitive task. An example of a hard and easy (value in parenthesis) scenario is provided below: 
 
->The economy is going through difficult times; suppose your employer needs to make substantial budget cuts. Imagine a scenario in which you receive a 15% (5%) cut in your salary. Given your situation, would you be able to maintain roughly your same lifestyle under those new circumstances? If not, what changes would you need to make? Would it impact your leisure, housing, or travel plans?”
+>The economy is going through difficult times; suppose your employer needs to make substantial budget cuts. Imagine a scenario in which you receive a 15% (5%) cut in your salary. Given your situation, would you be able to maintain roughly your same lifestyle under those new circumstances? If not, what changes would you need to make? Would it impact your leisure, housing, or travel plans?
 >
 
 
@@ -18,7 +18,7 @@ While the 4 scenarios from this paper would be terrific additions for my thesis 
 
 That is why, for the first part of my thesis project, <u>I’ve designed some age-appropriate scarcity scenarios!</u> The following table includes the initial draft of my scenarios:
 
-| Scenario Drafts    | Description (easy version in parenthesis) |
+| Drafts    | Description (easy version in parenthesis) |
 | ----------- | ----------- |
 | Scenario #1     | This summer, your school has decided that all students must enroll in a summer program in order to graduate, and the total cost of the program is $1,500 ($150). Can you afford this?   |
 | Scenario #2   | Your parents sent you to the dentist and you find out you need an important operation for your teeth. Your total bill ends up being $2,000 ($200). Can you pay for this? What can you do?  |
