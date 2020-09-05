@@ -8,17 +8,17 @@ This page includes a summary of ongoing and past projects related to diversity, 
 
 ### FLi Sci - A Website for First-Generation/Low-Income Scientists
 
-I created [FLi Sci](www.flisci.com) as a result of both anger and love: frustrated with the lack of mechanisms to include poor people but optimistic that STEM fields do want to support us. The goal of the website is to consolidate resources for students to acquire skills integral to laboratory settings but without access.  
+I created [FLi Sci](http://www.flisci.com/) as a result of both anger and love: frustrated with the lack of mechanisms to include poor people but optimistic that STEM fields do want to support us. The goal of the website is to consolidate resources for students to acquire skills integral to laboratory settings but without access.  
 
 ### Resources for URMs in STEM
 
 I worked with various scientist to create a resource guide to support URMs in STEM. The document can be found HERE. 
 
-### OppNet Summer Science Research Program (SSRP)
+### The Opportunity Network Summer Science Research Program (OppNet SSRP)
 
-As a Career Success Intern, I worked with the Opportunity Network to design a research trainee program for pre-college students with scientific aspirations. Originally planning to do a lab placement match program (e.g., helping students seek at research assistantships in labs in NYC), the project shifted to a remote program due to COVID-19. 
+As a Career Success Intern, I worked with the Opportunity Network to design a research trainee program for pre-college students with scientific aspirations. Originally planning to do a lab placement match program (i.e., helping students seek at research assistantships in labs in NYC), the project shifted to a remote program due to COVID-19. For OppNet, I created curriculum that focused on skills utilized in most research settings such as reading, discussing, and presenting empirical research.
 
-You can find a copy of the original* proposal [HERE](link)[^1].
+The student's final projects can be found at the OppNet SSRP website [HERE](https://oppnetssrp.com/)[^1].
 
 ### NSC Work
 
