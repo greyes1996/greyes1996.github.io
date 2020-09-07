@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : geyes1996
+  username               : BrainGabe
 facebook:
   username               : 
   app_id                 :
@@ -87,7 +87,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-137800244-1
     anonymize_ip         : # true, false (default)
 
 
@@ -107,7 +107,7 @@ author:
       url: "https://greyes1996.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/geyes1996"
+      url: "https://twitter.com/BrainGabe"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/gabe.reyes.50"
@@ -116,7 +116,7 @@ author:
       url: "https://github.com/greyes1996"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/geyes7437"
+      url: "https://instagram.com/thebraingabe"
 
 # Site Footer
 footer:
