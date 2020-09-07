@@ -2,7 +2,7 @@
 title: Introducing FLi Sci!
 ---
 
-Earlier this summer, I (prematurely)[[^1]] launched [FLi Sci](https://www.flisci.com) (short for First-Gen/Low-Income Scientists). The aim of this website is to consolidate resources for students from economically disadvantaged backgrounds that aspire to become a scientist but may not have adequate support to accomplish that goal. 
+Earlier this summer, I (prematurely)[^1] launched [FLi Sci](https://www.flisci.com) (short for First-Gen/Low-Income Scientists). The aim of this website is to consolidate resources for students from economically disadvantaged backgrounds that aspire to become a scientist but may not have adequate support to accomplish that goal. 
 
 Since announcing FLi Sci, I’ve received some tremendous support from peers and strangers, many of whom have expressed an interest in helping or have signed up for the FLi Sci Ally program. It is very empowering because prior to FLi Sci, I was *petrified* to bring up issues related to socioeconomic status in science because it was never well-received; I usually left those interactions convinced that I was a nuisance for implying income was a barrier. However, I remain convinced that graduate school has a severe class issue — one that exacerbates any attempt to create mechanisms to diversify the academic community. 
 
