@@ -9,20 +9,20 @@ permalink: /cv/
 You can access and [view the PDF here]({{ site.url }}/assets/GabrielReyes_CV.pdf)
 
 
-## **EDUCATION**
+# **EDUCATION**
 
 ---
 
-# **Columbia University** | Sept. 2019 - May 2021 (expected)
+## **Columbia University** | Sept. 2019 - May 2021 (expected)
 
 *M.S. Candidate in Neuroscience & Education*
 
-# **Brown University** | Sept. 2014 - May 2018
+## **Brown University** | Sept. 2014 - May 2018
 
 *Sc.B. in Cognitive Neuroscience (Honors)*
 
 
-## **HONORS, FELLOWSHIPS, AND AWARDS**
+# **HONORS, FELLOWSHIPS, AND AWARDS**
 
 ---
 
