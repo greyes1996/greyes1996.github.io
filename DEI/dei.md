@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-toc: true
+classess: wide
 permalink: /dei/
 ---
 This page includes a summary of ongoing and past projects related to diversity, equity, and inclusion (DEI) in science. 
@@ -28,8 +28,5 @@ While at Brown, I was an active participant of the [New Scientist Collective](ht
 
 The NSC program was primarily focused on a mentoring program where upperclassmen were matched with students to provide 1:1 mentorship during their first year. However, data (both qualitative and quantitative) indicated that our mentoring program was not successful at retaining students in the program. I hypothesized that this was the result of our matching system: we decided who the mentors were matched to. In an effort to shift power and provide more autonomy to the mentees, I re-designed the matching program by creating a tool that showcased all elgible mentors in the program and designed a system for mentees to self-select their mentors based on their own individual needs and desire. You can find a copy of my presentation [HERE](link) and some more resources [HERE](link).
 
-## *Faculty-Student Lunch Grant Program* 
-
-## *STEM Scholars Gala*
 
 [^1]: Changes to the program were made after my departure from the team over the summer which is not publicly available. For more details, please contact OppNet directly (anyone on the Career Success team) for more questions about SSRP. 
