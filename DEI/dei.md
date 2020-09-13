@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-classess: wide
+classes: wide
 permalink: /dei/
 ---
 This page includes a summary of ongoing and past projects related to diversity, equity, and inclusion (DEI) in science. 
