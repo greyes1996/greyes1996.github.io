@@ -13,7 +13,6 @@ Below is an image of the poster I submitted along with a transcript of my talk! 
 
 {: .center}
 ![AFPoster]({{ site.url }}/assets/AcademicFestivalPoster.png)
-
 *Poster presented at the 2020 Teachers College (Virtual) Academic Festival*
 {:.image-caption}
 
@@ -34,6 +33,5 @@ If my hypothesis holds and is consistent with prior research, then I anticipate 
 Thank you for listening."
 {: .center}
 ![Me!]({{ site.url }}/assets/MePresenting!.png)
-
 *If you made it this far here's a picture of giving my talk provide by Juan Llamas!*
 {:.image-caption}
