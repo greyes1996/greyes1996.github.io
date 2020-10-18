@@ -1,7 +1,7 @@
 ---
 title: My first indepedent poster presentation!
 ---
-A week ago, I received an email from Teacher College’s Academic Festival coordinator informing me that my thesis research is 1 of 10 finalist for their Innovation Scholarship for Best Student Research Award (!!!). It is quite the honor knowing that out of ~4,500 graduate students, my ideas placed in the top 10 (which is so surreal to think about!). To determine which project will earn the prize for best student research, finalists had to submit a poster along with a 3-minute video presented next week in front of a live audience of alumni, judges, faculty, students (including the other finalists). 
+A week ago, I received an email from Teacher College’s Academic Festival coordinator informing me that my thesis research is 1 of 9 finalists for their Innovation Scholarship for Best Student Research Award (!!!). It is quite the honor knowing that out of ~4,500 graduate students, my ideas placed in the top 10 (which is so surreal to think about!). To determine which project will earn the prize for best student research, finalists had to submit a poster along with a 3-minute video presented next week in front of a live audience of alumni, judges, faculty, students (including the other finalists). 
 
 A few things to note about my poster:
 
@@ -9,7 +9,7 @@ A few things to note about my poster:
 * The results are *hypothetical* (due to COVID, the conference typically happens in the Spring, but they moved it to the Fall *and* allowed students to discuss proposals of ideas in the event it disrupted data collection. Mine was but also delayed as I finalize this IRB application)
 * Allowing only 3-minutes to present this poster was absolutely *criminal* (it was so hard...)
 
-Below is an image of the poster I submitted along with a transcript of my talk! (You can find a file of it [HERE]({{ site.url }}/assets/AcademicFestivalPoster.pdf) for a closer look or copy, and a video of the actual presentation will come once they release it but until then please accept this photo my partner took of me when I was recording it). 
+Below is an image of the poster I submitted along with a transcript of my talk! (You can find a file of it [HERE]({{ site.url }}/assets/AcademicFestivalPoster.pdf) for a closer look or copy, and a video of the actual presentation will come once they release it but until then please accept a photo my partner took of me when I was recording it towards the end of this post). 
 
 {: .center}
 ![AFPoster]({{ site.url }}/assets/AcademicFestivalPoster.png)
@@ -33,5 +33,6 @@ If my hypothesis holds and is consistent with prior research, then I anticipate 
 Thank you for listening."
 {: .center}
 ![Me!]({{ site.url }}/assets/MePresenting!.png)
+
 *If you made it this far here's a picture of giving my talk provide by Juan Llamas!*
 {:.image-caption}
