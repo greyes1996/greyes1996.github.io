@@ -4,7 +4,7 @@ title: My Personal Site
 classes: wide
 author_profile: true
 ---
-Hola! I am a (proud) native of Albuquerque, NM and current graduate student at Columbia University pursuing an [M.S. in Neuroscience & Education](https://www.tc.columbia.edu/biobehavioral-sciences/neuroscience-and-education/) on a [Gates Millennium Scholarship](gmsp.org). 
+Hola! I am a (proud) native of Albuquerque, NM and current graduate student at Columbia University pursuing an [M.S. in Neuroscience & Education](https://www.tc.columbia.edu/biobehavioral-sciences/neuroscience-and-education/) on a [Gates Millennium Scholarship](https://www.gmsp.org). 
 
 Previously, I graduated from [Brown University with an Sc.B. in Cognitive Neuroscience](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/) under the mentorship of [Dr. Leslie Welch](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/leslie-welch) and [Dr. Monica Linden](https://vivo.brown.edu/display/ml32). After I graduated, I took a gap year to work as a Program Coordinator with Teaching Trust, a Dallas-based non-profit that works with school leaders to support low-income students of color. Currently, I am an RA in [Daphna Shohamy's Learning Lab](https://shohamylab.zuckermaninstitute.columbia.edu).
 
