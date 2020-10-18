@@ -6,6 +6,8 @@ classes: wide
 permalink: /teaching/
 ---
 
+This page includes a detailed account of my prior teaching experience. 
+
 # **Data, Activated!** 
 
 During the summer of 2020, I was a Data, Activated! TA (DATA) where I directly mentored 8 students in the [Opportunity Network Fellowship](https://opportunitynetwork.org/fellows/) program. 
