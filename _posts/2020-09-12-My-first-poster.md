@@ -1,7 +1,7 @@
 ---
 title: My first indepedent poster presentation!
 ---
-A week ago, I received an email from Teacher College’s Academic Festival coordinator informing me that my thesis research is 1 of 9 finalists for their Innovation Scholarship for Best Student Research Award (!!!). It is quite the honor knowing that out of ~4,500 graduate students, my ideas placed in the top 10 (which is so surreal to think about!). To determine which project will earn the prize for best student research, finalists had to submit a poster along with a 3-minute video presented next week in front of a live audience of alumni, judges, faculty, students (including the other finalists). 
+A week ago, I received an email from Teacher College’s Academic Festival coordinator informing me that my thesis research is 1 of 9 finalists for their Innovation Scholarship for Best Student Research Award (!!!). It is quite the honor knowing that out of ~4,500 graduate students, my ideas placed in the top 10 (which is so surreal to think about!). To determine which project will earn the prize for best student research, finalists had to submit a poster along with [a 3-minute video](https://www.youtube.com/watch?v=oDVRI8iYaJE&feature=youtu.be) presented next week in front of a live audience of alumni, judges, faculty, students (including the other finalists). 
 
 A few things to note about my poster:
 
