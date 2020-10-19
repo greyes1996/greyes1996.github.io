@@ -8,7 +8,13 @@ This page includes a summary of ongoing and past projects related to diversity, 
 
 # FLi Sci - A Website for First-Generation/Low-Income Scientists
 
-I created [FLi Sci](https://www.flisci.com/) as a result of both anger and love: frustrated with the lack of mechanisms to include poor people but optimistic that STEM fields do want to support us. The goal of the website is to consolidate resources for students to acquire skills integral to laboratory settings but without access.  
+I created [FLi Sci](https://www.flisci.com/) as a result of both anger and love: frustrated with the lack of mechanisms to include poor people but optimistic that STEM fields do want to support us. The goal of the website is to consolidate resources for students to acquire skills integral to laboratory settings but without access.
+
+## *FLi Sci Scholars Program*
+
+Due to the COVID-19 pandemic, many educational programs suffered and subsequently shut down. In response to this, [4.0 Schools](https://4pt0.org) released a last-minute grant program called the [New Normal Fellowship](https://medium.com/future-of-school/meet-our-latest-fellows-the-new-normal-wave-4c736de8ece2), which awarded me $5,000 to pilot a program in response to the pandemic's educational disruption. 
+
+I pitched a reearch program because I knew that such opportunities are often scarce to individuals that come from marginalized backgrounds — particularly low-income students of color. This problem is certainly exacerbated if one also does not attend a research-intensive insitution, and even harder if resources are finite. That is why, to combat this, the first pilot program through FLi Sci is a virtual research trainee program aimed to support 8 gifted scientists-in-the-making. My goal will be to leverage the next few months to engage students in high school in the "Hidden Curriculum" of STEM and learn more about additional program that should be generated through resources such as FLi Sci. 
 
 # Resources for URMs in STEM
 
