@@ -25,16 +25,16 @@ The first step I took was re-reading the paper. Whenever I read an empirical art
 5. Discussion
 6. Results   
 
-While this order may not follow the presentation of the paper, the reason is because, as I read, I develop a list of questions I have that I hope to address in the following section. Here are some questions I had from each section as I was reading:
+While this order may not follow the presentation of the paper, the reason is because, as I read, I develop a list of questions I aimed to address in the following section. Here are some questions I had from each section as I was reading:
 
 | Section    | Questions |
 | ----------- | ----------- |
-| Abstract     | What is eccentricity?   |
-| Introduction   |  What is eccentricity bias? What is rectilinearity? Animacy? Can I come up with examples of my own to explain this? |
-| Figures     | Figure 2: What is the y-axis saying in b,c, and d? What is the difference between b-d? Why only animals and Pokemon? What is the significance of Figure 4? |
-| Methods  | How is Jesse creating and analyzing each of the figures? What is neural decoding (and winner-takes-all classifier)?  |
-| Discussion  | What — how did he show support for eccentricity???  |
-| Results  | Literally everything |
+| **Abstract**     | What is eccentricity?   |
+| **Introduction**   |  What is eccentricity bias? What is rectilinearity? Animacy? Can I come up with examples of my own to explain this? |
+| **Figures**     | Figure 2: What is the y-axis saying in b,c, and d? What is the difference between b-d? Why only animals and Pokemon? What is the significance of Figure 4? |
+| **Methods**  | How is Jesse creating and analyzing each of the figures? What is neural decoding (and winner-takes-all classifier)?  |
+| **Discussion**  | What — how did he show support for eccentricity???  |
+| **Results**  | Literally everything |
 
 Next, as I develop a list of these questions, I then try to either a) find the answer within the paper or, if that does not work, b) Google + YouTube! 
 
