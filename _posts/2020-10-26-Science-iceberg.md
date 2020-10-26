@@ -6,7 +6,7 @@ Have you ever heard of the iceberg metaphor? The distinction between what people
 
 {: .center}
 ![ScienceIceberg]({{ site.url }}/assets/SuccessIcebergIllusion.jpg)
-*Courtesy of St. Fergus' National School *
+*Courtesy of St. Fergus' National School*
 {:.image-caption}
 
 The image is pretty self-explanatory for the most part: the process that contributes to the final product is either obscured or eclipsed altogether. This can lead to a lot of warped perceptions about what it takes to accomplish a deliverable — whether it is an academic paper, an exam grade, or, in my particular case, the presentation of a paper. 
