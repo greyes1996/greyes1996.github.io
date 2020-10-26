@@ -5,7 +5,7 @@ title: The iceberg of science
 Have you ever heard of the iceberg metaphor? The distinction between what people see and what they do not? If you have not, check out the image below:
 
 {: .center}
-![ScienceIceberg]({{ site.url }}/assets/SuccessIcebergIllusion.png)
+![ScienceIceberg]({{ site.url }}/assets/SuccessIcebergIllusion.jpg)
 *Courtesy of St. Fergus' National School *
 {:.image-caption}
 
