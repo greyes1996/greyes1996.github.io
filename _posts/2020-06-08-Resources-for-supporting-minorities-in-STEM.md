@@ -1,6 +1,9 @@
 ---
 title: Resources for supporting URMs in STEM
 comments: true
+categories:
+  - DEI
+  - Resources
 ---
 
 
