@@ -18,7 +18,7 @@ You can access and [view the PDF here]({{ site.url }}/assets/GabrielReyes_CV.pdf
   </style>
 <font size="3">
  
-                <p>2019 - present &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-weight:bold">Teachers College, Columbia University</span>  </p>
+                <p>2019 - present &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-weight:bold">Columbia University</span>  </p>
                 <p class="paragraph_style_appt">  M.S. Candidate in Neuroscience & Education <br>  Department of Biobehavioral Sciences (Advisor: Dr. Karen Froud)
  
                 <p class="paragraph_style_1">2014 - 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight:bold">Brown University</span></p>
