@@ -23,5 +23,8 @@ You can access and [view the PDF here]({{ site.url }}/assets/GabrielReyes_CV.pdf
  
                 <p class="paragraph_style_1">2014 - 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight:bold">Brown University</span></p>
                 <p class="paragraph_style_appt"> Sc.B. in Cognitive Neuroscience (Honors) <br> Honors Advisor: Dr. Leslie Welch<br>
-                Honors Thesis: Picture this — or not? An objective exploration of visual mental imagery <br></p> <br>
+                Senior Honors Thesis: Picture this — or not? An objective exploration of visual mental imagery <br></p> <br>
+               
+                <p>2016 - 2016 &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-weight:bold">DIS — Danish Institute for Study Abroad</span>  </p>
+                <p class="paragraph_style_appt">  Visiting Neuroscience Medical Student <br>  Medical Practice & Policy Program
             
