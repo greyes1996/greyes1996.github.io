@@ -18,13 +18,19 @@ I pitched a reearch program because I knew that such opportunities are often sca
 
 # Resources for URMs in STEM
 
-I worked with various scientist to create a resource guide to support URMs in STEM. The document can be found HERE. 
+I worked with various scientist to create a resource guide to support URMs in STEM. The document can be found [**HERE**](https://docs.google.com/document/d/1Ic6bil2AvrQmPFUcUyxcw_FumofKkUo3VLsU7qG0cTk/edit). 
 
-# The Opportunity Network Summer Science Research Program (OppNet SSRP)
+# The Opportunity Network (OppNet)
 
-As a Career Success Intern, I worked with the Opportunity Network to design a research trainee program for pre-college students with scientific aspirations. Originally planning to do a lab placement match program (i.e., helping students seek at research assistantships in labs in NYC), the project shifted to a remote program due to COVID-19. For OppNet, I created curriculum that focused on skills utilized in most research settings such as reading, discussing, and presenting empirical research.
+## *Summer Science Research Program (OppNet SSRP)*
 
-The student's final projects can be found at the OppNet SSRP website [HERE](https://oppnetssrp.com/)[^1].
+As a Career Success Intern, I worked with Stephanie Nudelman to design a research trainee program for pre-college students with scientific aspirations. Originally planning to do a lab placement match program (i.e., helping students seek at research assistantships in labs in NYC), the project shifted to a remote program due to COVID-19. For OppNet, I created curriculum that focused on skills utilized in most research settings such as reading, discussing, and presenting empirical research.
+
+The student's final projects can be found at the OppNet SSRP website [**HERE**](https://oppnetssrp.com/)[^1].
+
+## *Data, Activiated!*
+
+In Summer 2020, and as a Decision Science Graduate Intern, I worked with Katherine Hanson on a virtual course introducing high school students to introductory data science. My primary role was to mentor 8 students as their Data, Activated! Teaching Assistant (D.A.T.A.), providing academic and personal support with their data project and future goals.  
 
 # New Scientist Collective (NSC) Diversity, Equity, and Inclusion Projects
 
@@ -33,6 +39,10 @@ While at Brown, I was an active participant of the [New Scientist Collective](ht
 ## *NSC Mentoring Program*
 
 The NSC program was primarily focused on a mentoring program where upperclassmen were matched with students to provide 1:1 mentorship during their first year. However, data (both qualitative and quantitative) indicated that our mentoring program was not successful at retaining students in the program. I hypothesized that this was the result of our matching system: we decided who the mentors were matched to. In an effort to shift power and provide more autonomy to the mentees, I re-designed the matching program by creating a tool that showcased all elgible mentors in the program and designed a system for mentees to self-select their mentors based on their own individual needs and desire. You can find a copy of my presentation [HERE](link) and some more resources [HERE](link).
+
+## *Faculty Lunch Grant Program*
+
+Details forthcoming!
 
 
 [^1]: Changes to the program were made after my departure from the team over the summer which is not publicly available. For more details, please contact OppNet directly (anyone on the Career Success team) for more questions about SSRP. 
