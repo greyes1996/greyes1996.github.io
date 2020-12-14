@@ -15,3 +15,5 @@ I have never been a fan of these articles. They are detrimental to people trying
 Brown has empowered me to become an architect of discovery—especially about myself. I do not pursue anything to appease the outside world; I will not become the people in these articles so that the perception of the world is in my favor (according to these articles). So if you read these articles, and it deteriorates the confidence you worked so hard to restore or maintain, I encourage you to resist them. Don’t let them question the path you’ve built for yourself. Don’t let them deter you from how you want to be successful or smart or pretty or whatever. Don’t let these articles influence the kind of college student you hoped to become.
 
 And if they do, feel free to reach me and I can tell you all the things I see in you that make you great because positivity rules the world. Not these false posts.
+
+*This blog was previously posted on the [I'm First! Scholarship Blog Series](https://imfirst.org/author/gabriel/) and recently migrated here to my personal site.*
