@@ -16,3 +16,6 @@ It was harder for me to connect with the locals in this city because of a palpab
 This isolation made me fearful of my surroundings which paralyzed me. As a result of my immobility, I was unable to immerse myself in this new environment I had the privilege of experiencing—and I was cognizant of that fact. In fact, being aware actually made me angry because I knew that the person that I wanted to be—the person that I believed I was—would not allow myself to become incapacitated if it meant wasting a meaningful experience.
 
 I’ll admit that my first few days in Taiwan are still tough, and I have not yet acclimated to the country as fast as I would have liked, but I am hopeful that soon I will grow out of my fear and learn to make the most of it. I know I can adjust; I have before in the past. Meanwhile, I am taking it day by day, learning to reflect on my feelings and plan my next steps so that I can also look at this with nostalgia.
+
+*This blog was previously posted on the [I'm First! Scholarship Blog Series](https://imfirst.org/author/gabriel/) and recently migrated here to my personal site.*
+
