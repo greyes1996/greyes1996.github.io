@@ -2,10 +2,6 @@
 title: My first-gen experience at Brown
 ---
 
----
-title: My first-gen experience at Brown
----
-
 I think one of my greatest strengths is my confidence. I never doubt my abilities to succeed in any context or standards I set for myself, and rarely do I allow external forces to negatively influence my indomitable spirit. However, I think that this was also a weakness that resulted in a tough start to my college experience.
 
 When I first was applying to colleges—especially looking at top-tier institutions—I knew that I was going to enter an arena without any proper armor, training, or guidance to allow me to reign victorious. I survived by telling myself that my confidence was enough to get me through it. This, however, was foolish of me.
@@ -23,3 +19,5 @@ I’ll admit though, what I want is not a time machine to take me back—what I 
 The truth is this though: it really is all a matter of perspective. Remember, I’m still confident; I know I’m going to be a great doctor, and I know I am going to do great things. I just need to remember that it is okay for me to “be a little behind.” By that, it’s okay if my resume does not have what my peers have for awhile. It’s okay if my background provided less rigorous preparation for the Ivy League. It does not make me inept as an aspiring surgeon, and it certainly does not mean I shouldn’t be at Brown. At the end of the day, I’m still the same hardworking, ambitious, talented, inquisitive, outspoken, confident student that got me into Brown in the first place, and I know it will continue to get me far.
 
 So the only change I’m seeing is to break my comparative attitude and not focus so much on what others are doing, but rather focus on what I should do to reach my goals. If I have to take Orgo as a Senior, so be it. If I can’t do extensive scientific research every summer, that’s fine—I’ll do research eventually. But I will be a doctor. I will go to graduate school. And I will get better. And right now, I’m planning to go abroad and study medicine because that is what I want to do without anyone telling me it’s what I have to do.
+
+*This blog was previously posted on the [I'm First! Scholarship Blog Series](https://imfirst.org/author/gabriel/) and recently migrated here to my personal site.*
