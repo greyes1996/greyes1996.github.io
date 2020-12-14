@@ -1,0 +1,25 @@
+---
+title: My first-gen experience at Brown
+---
+
+---
+title: My first-gen experience at Brown
+---
+
+I think one of my greatest strengths is my confidence. I never doubt my abilities to succeed in any context or standards I set for myself, and rarely do I allow external forces to negatively influence my indomitable spirit. However, I think that this was also a weakness that resulted in a tough start to my college experience.
+
+When I first was applying to colleges—especially looking at top-tier institutions—I knew that I was going to enter an arena without any proper armor, training, or guidance to allow me to reign victorious. I survived by telling myself that my confidence was enough to get me through it. This, however, was foolish of me.
+
+My pride got the better of me, and as a result of that, I took on too challenging of a course load by telling myself “Just because I haven’t taken 20 AP’s doesn’t mean I can’t pass this course.” This was true, however, the aforementioned thought did not necessarily translate to “I was going to do well in this course.” The truth being I am not ready for such a rigorous curriculum.
+
+Now, when I tell many people this, they comfort me with statements such as “Yes you are ready!” or “Your grades don’t represent your intelligence” or similar optimistic praise. I don’t disagree with those comments, but I don’t entirely agree with them either. If I am going to do well—academically and personally—I need to recognize my strengths, but most importantly my weaknesses. However I felt that my weakness was being brushed off, or people were afraid to address them fearing that it would hurt my feelings, or my arrogance prevented me from telling myself that it is okay to take it easy. So what I wish someone would tell me is “You are starting from Square One—and that’s okay. You’ll catch up in due time.”
+
+I set myself up to be a doctor, but I did so without having any adequate experience in science-intensive courses or even walking into a hospital. I wasn’t going to be one of the freshmen taking Organic Chemistry. My resume was far too political and lacked research experience for me to pursue research. In fact, I’m probably not prepared to take pre-med level courses at Brown without causing so much anxiety from the pressure and level of difficulty. Am I scared? Oh, God, no! I just want to do well, but I’m not going to learn how to swim in 10-feet-deep water by just jumping in. I need swimming lessons first; I need to take it easy.
+
+However, I didn’t tell myself that at first. I jumped into the deep, deep pool telling myself I can and I started drowning. No matter how hard I try to kick myself back to the top, eventually, the drowning damaged me to the point that I am afraid to go back into the water. For a while, I blamed myself for not being more ambitious in high school. I should have self-studied for AP exams that my school couldn’t offer; I should have realized I wanted to be a doctor sooner so I can find research opportunities. I should have prepared myself more in high school for college.
+
+I’ll admit though, what I want is not a time machine to take me back—what I want is for people to understand that I am on a different path that may not seem traditional as the competitive Ivy League student is, and that’s fine. It’s scary to be at Brown and having people tell me I need to do research to go to medical school when I can’t get a research position because I lack research experience but I want to do that research so I can get that experience. It’s scary for me to see all my classmates struggle in Orgo but I can’t take that until senior year because I need a strong chemistry foundation first in order to get the prerequisites for Orgo. It’s scary when I question whether I should have gone to an easier school just so I can feel good about my academics.
+
+The truth is this though: it really is all a matter of perspective. Remember, I’m still confident; I know I’m going to be a great doctor, and I know I am going to do great things. I just need to remember that it is okay for me to “be a little behind.” By that, it’s okay if my resume does not have what my peers have for awhile. It’s okay if my background provided less rigorous preparation for the Ivy League. It does not make me inept as an aspiring surgeon, and it certainly does not mean I shouldn’t be at Brown. At the end of the day, I’m still the same hardworking, ambitious, talented, inquisitive, outspoken, confident student that got me into Brown in the first place, and I know it will continue to get me far.
+
+So the only change I’m seeing is to break my comparative attitude and not focus so much on what others are doing, but rather focus on what I should do to reach my goals. If I have to take Orgo as a Senior, so be it. If I can’t do extensive scientific research every summer, that’s fine—I’ll do research eventually. But I will be a doctor. I will go to graduate school. And I will get better. And right now, I’m planning to go abroad and study medicine because that is what I want to do without anyone telling me it’s what I have to do.
