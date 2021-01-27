@@ -8,7 +8,7 @@ Hola! I am a (proud) native of Albuquerque, NM and current graduate student at C
 
 Previously, I graduated from [Brown University with an Sc.B. in Cognitive Neuroscience](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/) under the mentorship of [Dr. Leslie Welch](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/leslie-welch) and [Dr. Monica Linden](https://vivo.brown.edu/display/ml32). After I graduated, I took a gap year to work as a Program Coordinator with Teaching Trust, a Dallas-based non-profit that works with school leaders to support low-income students of color. Currently, I am an RA in [Daphna Shohamy's Learning Lab](https://shohamylab.zuckermaninstitute.columbia.edu).
 
-This year, ***I am applying to PhD programs in Neuroscience or Psychology.*** You can view my most current CV [**HERE.**]({{ site.url }}/assets/GabrielReyes_CV.pdf) During graduate school, I want to know more about how our brain develops over time, how stressful environments and experiences shape that development, and the relationship between those brain structures and behavior (with a emphasis on learning and memory systems). 
+This year, ***I am applying to PhD programs in Neuroscience or Psychology.*** You can view my most current CV [**HERE.**]({{ site.url }}/assets/GabrielReyes_CV.pdf) 
 
 To learn more about me, I recommend reading my [**About**](https://greyes1996.github.io/about/) which highlights my story to science, my general philosophy, and my research interests (in significantly more detail!). If you want to get a sense of what I think, take a look at my [**Blogs**](https://greyes1996.github.io/blog). 
 
