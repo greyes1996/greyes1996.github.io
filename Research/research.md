@@ -5,16 +5,38 @@ classes: wide
 permalink: /research/
 ---
 
-Currently, I am broadly interested in brain development processes related to structure and function. In particular, I hope to research more about the formation, progression, and evolution of various brain structures, the role environments and experience play in the development of those structures, and generally anything that provides insights into our brains!
+Starting Fall 2021, I will be joining Stanford to work with [Dr. Bruce McCandliss](https://edneuroinitiative.stanford.edu), [Dr. Jason Yeatman](https://www.brainandeducation.com), and Dr. [Jelena Obradović](https://sparklab.stanford.edu) doing research on related to brain development, learning, and stress. (More to come in the coming months — stay tuned!) 
 
-# My Masters Thesis Proposal
+# Research at Columbia University
 
-For my graduate program at Columbia, my thesis is exploring learning and memory and the role financial stress contributes to reward learning, decision-making, and memory. Currently, I posit that the ability to learn from rewards is not intrinsically disrupted in individuals that were reared in poverty, but rather that the onset of financial stress *interferes* with learning. I intend to explore this by utilizing a scarcity framework by inducing financial stress using a series of hypothetical financial scenarios prior to engaging in a learning task. I also intend to explore the brain regions associated with learning, memory, and stress to better understand the development of these processes. 
+### *My Masters Thesis*
+For my graduate program at Columbia, my thesis is exploring learning and memory and the role financial stress affects cognition associated with learning and memory. You can access a copy of my thesis [here.]({{ site.url }}/assets/reyes_columbia_thesis.pdf)
 
-A copy of my experimental proposal can be found momentarily, as well as a summary of a literature review done during the first year of my program.
+While at Teachers College, I presented my thesis research at two conferences: the [2020 Academic Festival](https://www.tc.columbia.edu/articles/2020/november/exploring-povertys-impact-on-learning/) and at the 4th annual [Institue for Psychological Sciences and Practice (IPSP)](https://drive.google.com/file/d/1eHcQMoCvLhg8NDu5u6FHP5sTvxMrIeN_/view?usp=sharing). 
 
-# My Undergraduate Honors Thesis 
+# Research at Brown University 
 
+### *My Undergraduate Honors Thesis*
 Working with Dr. Leslie Welch, we explored a rare phenomenon known as Aphantasia - the inabiltiy to conjure up images in the mind's eye. We conducted a remote study where participants with and without aphantasia engaged in a mental rotation task. 
 
-A copy of my thesis as well as the oral presentation is available upon request. 
+### *The Neuroscience of Racism*
+Along with 7 other students at Brown, I co-created a research seminar at Brown under the mentorship of [Dr. Monica Linden.](https://vivo.brown.edu/display/ml32)
+
+Additionally, for our final presentation, I organized a public presentation inviting the Brown community as well as the general public to attend a talk of our primary findings. A copy of our slides from that presentation can be found [here](). I also presented at Brown's [Theories in Action](http://www.browntia.org/past-years) conference on a roundtable discussion entitled "Applying Scientific Research." 
+
+### *Race and Gender in the Scientific Community*
+The first statistical project I engaged in was examining the antecedents that supported scientist from underrepresented backgrounds to acquire  positions as academic faculty. I was able ot present my findings from this project at the Humans in STEM conference at Yale University in 2018. 
+
+And! Fun fact! I (unexpectedly!) ran into my BEST FRIEND from high school (she went to Amherst College for her undergrad) who was also invited to present at this conference. 
+
+{: .center}
+![GabeXuan]({{ site.url }}/assets/Guan!.jpg)
+
+{:.image-caption}
+*Here is a picture of us embracing:*
+
+{:.image-caption}
+*And here is a picture of Xuan talking about her awesome research!*
+
+{: .center}
+![Xuan]({{ site.url }}/assets/XuanResearch!.jpg)
