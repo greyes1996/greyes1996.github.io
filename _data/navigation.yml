@@ -8,5 +8,7 @@ main:
     url: /teaching/
   - title: "DEI"
     url: /dei/
+  - title: "FLi Sci"
+    url: https://www.FLiSci.com
   - title: "CV"
     url: /cv/
