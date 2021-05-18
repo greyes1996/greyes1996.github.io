@@ -12,7 +12,7 @@ Starting Fall 2021, I will be joining Stanford to work with [Dr. Bruce McCandlis
 ### *My Masters Thesis*
 For my graduate program at Columbia, my thesis is exploring learning and memory and the role financial stress affects cognition associated with learning and memory. You can access a copy of my thesis [here.]({{ site.url }}/assets/reyes_columbia_thesis.pdf)
 
-While at Teachers College, I presented my thesis research at two conferences: the [2020 Academic Festival](https://www.tc.columbia.edu/articles/2020/november/exploring-povertys-impact-on-learning/) and at the 4th annual [Institue for Psychological Sciences and Practice (IPSP)](https://drive.google.com/file/d/1eHcQMoCvLhg8NDu5u6FHP5sTvxMrIeN_/view?usp=sharing). 
+While at Teachers College, I presented my thesis research at two conferences: the [2020 Academic Festival](https://www.tc.columbia.edu/articles/2020/november/exploring-povertys-impact-on-learning/) and at the 4th annual [Institute for Psychological Sciences and Practice (IPSP)](https://drive.google.com/file/d/1eHcQMoCvLhg8NDu5u6FHP5sTvxMrIeN_/view?usp=sharing). 
 
 # Research at Brown University 
 
