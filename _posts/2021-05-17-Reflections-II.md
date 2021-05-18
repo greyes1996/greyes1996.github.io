@@ -1,5 +1,5 @@
 ---
-title: Reflections of Ph.D. applications (and life!) part II
+title: Reflections on Ph.D. applications (and life!) part II
 ---
 
 On May 6th, I made the [official announcement](https://www.facebook.com/photo?fbid=4107616399321132&set=a.394423493973793&notif_id=1620931269480125&notif_t=feedback_reaction_generic&ref=notif) that I accepted Stanford’s PhD offer and won the Knight-Hennessy Scholarship. This was a surreal experience considering [the surge in graduate applications this year](https://grad.berkeley.edu/news/announcements/record-high-increase-in-historically-underrepresented-graduate-applicants/). 
