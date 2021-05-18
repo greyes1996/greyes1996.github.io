@@ -1,5 +1,5 @@
 ---
-title: Reflections of Ph.D. applications part I
+title: Reflections on Ph.D. applications part I
 ---
 I am very pleased to announce that… I APPLIED TO PH.D. PROGRAMS! 
 
