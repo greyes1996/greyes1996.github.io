@@ -5,7 +5,7 @@ classes: wide
 permalink: /research/
 ---
 
-Starting Fall 2021, I will be joining Stanford to work with [Dr. Bruce McCandliss](https://edneuroinitiative.stanford.edu), [Dr. Jason Yeatman](https://www.brainandeducation.com), and Dr. [Jelena Obradović](https://sparklab.stanford.edu) doing research on related to brain development, learning, and stress. (More to come in the coming months — stay tuned!) 
+Starting Fall 2021, I will be joining Stanford to work with [Dr. Bruce McCandliss](https://edneuroinitiative.stanford.edu), [Dr. Jason Yeatman](https://www.brainandeducation.com), and [Dr. Jelena Obradović](https://sparklab.stanford.edu) doing research on related to brain development, learning, and stress. (More to come in the coming months — stay tuned!) 
 
 # Research at Columbia University
 ### *My Masters Thesis*
