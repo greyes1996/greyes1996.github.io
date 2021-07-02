@@ -1,6 +1,7 @@
 ---
 title: Teaching my first course - Intro to Cognitive Neuroscience!
 toc: true
+toc_label: Table of Contents
 ---
 I got to teach my first college-level course for students through the New Mexico Tech Upward Bound Math Science program!! I was able to create my own class — in which I taught Cognitive Neuroscience! — *and* I got to teach students that all identified as low-income and/or first-generation college students through the [Upward Bound Math Science (UBMS) program](https://www.nmt.edu/upward/upward.php). So I wanted to use these two weeks to do a bit more than just expose students to the wonders of the brain and behavior; I wanted to see if I could *inspire* them to pursue a career in science. 
 
@@ -55,6 +56,8 @@ First, reviews for my class were overwhelmingly positive (🥲). Figure 2 and Ta
 {: .center}
 ![FEEDBACK]({{ site.url }}/assets/class_feedback.png)
 
+### Table 1
+
 | Lecture        | Class Satisfaction  | Instructor Satisfaction | Activities Satisfaction | Discussion Comfort |
 |----------------|:-------------------:|:-----------------------:|:-----------------------:|:------------------:|
 | Frontal Lobe   |         4.94        |           4.94          |           4.78          |        4.67        |
@@ -68,7 +71,7 @@ Personally, the scores for the class were
 ## Shift in STEM Identity
 For these two weeks, what I wanted to test was how exposure to cognitive neuroscience (i.e., topics rarely taught to students in New Mexico) would impact their self-perception of their science identity. Table 2 below provides summary statistics using the STEM Scores calculated from their pre and post responses.
 
-Table 2
+### Table 2
 
 |      | Pre-Score   | Post-Score  | Difference Score |
 |------|-------------|-------------|------------------|
@@ -89,7 +92,8 @@ However, I wanted to narrow down the data a bit more and observed something inte
 
 It’s quite clear that the sharpest difference was observed in Class 1 with almost very little change in my second class. Table 3 provides specific data to further showcase that difference.  
 
-Table 3
+### Table 3
+
 |              | Pre STEM Score | Post STEM Score | Average Change |
 |--------------|----------------|-----------------|----------------|
 | Class 1      |             35 |     39.66666667 |    4.666666667 |
