@@ -21,8 +21,8 @@ In addition, I also administered a pre- and post-course survey to evaluate how t
 
 Prior to designing the course, I found [this](https://www.frontiersin.org/articles/10.3389/feduc.2019.00078/full) article by McDonald et al. (2019) that provided a quick assessment of someone’s identity as a science, technology, mathematics, and engineering (STEM) professional. An image of what they is provided in Figure 1 below:
 
-{:.image-caption}
-*Figure 1: STEM POI Image*
+
+### *Figure 1: STEM POI Image*
 
 {: .center}
 ![STEM_POI]({{ site.url }}/assets/STEM_PIO.jpg)
@@ -50,8 +50,7 @@ Now on to the fun part — the results!
 ## **Course Feedback**
 First, reviews for my class were overwhelmingly positive (🥲). Figure 2 and Table 1 provides an overview of the scores provided.
 
-{:.image-caption}
-*Figure 2: Class Feedback by Topic*
+### *Figure 2: Class Feedback by Topic*
 
 {: .center}
 ![FEEDBACK]({{ site.url }}/assets/class_feedback.png)
@@ -84,8 +83,7 @@ When reviewing this data, I paid close attention to the Difference Score (the ch
 
 However, I wanted to narrow down the data a bit more and observed something interesting. Figure 3 below provides a graph that distinguishes the differences between the two classes.
 
-{:.image-caption}
-*Figure 3: STEM POI Change by Class Week*
+### *Figure 3: STEM POI Change by Class Week*
 
 {: .center}
 ![FEEDBACK]({{ site.url }}/assets/stem_change.png)
@@ -106,8 +104,7 @@ Interestingly, class satisfaction ratings did not reflect similar differences; s
 
 A potential (albeit, weak) possibility is differences in age. This is illustrated in Figure 4 below.
 
-{:.image-caption}
-*Figure 4: STEM POI Change by Age*
+### *Figure 4: STEM POI Change by Age*
 
 {: .center}
 ![FEEDBACK]({{ site.url }}/assets/stem_change_age.png)
@@ -124,11 +121,3 @@ First, it should come to no surprise that learning and teaching are two differen
 When I reviewed the feedback from the students, I got many responses that highlighted dimensions of my personality (take that, middle school bullies!). For example, several students mentioned an appreciation for my “infectious energy.” Which is true on two parts: I feel most powerful when I am doing cognitive neuroscience research — and am at my most comfortable when I am surrounded by people like me.
 
 Lastly, I have come to understand that while I look forward to teaching and mentoring, this experience taught me that what I loved most of all was cognitive neuroscience. It was absolutely thrilling to share my love for research with other students — and it was even more refreshing to hear from them how that came across each and every day. 
-
-
-
-
-
-
-
-
