@@ -1,5 +1,5 @@
 ---
-Title: eaching my first course: Intro to Cognitive Neuroscience!
+title: Teaching my first course: Intro to Cognitive Neuroscience!
 toc: true
 ---
 I got to teach my first college-level course for students through the New Mexico Tech Upward Bound Math Science program!! I was able to create my own class — in which I taught Cognitive Neuroscience! — *and* I got to teach students that all identified as low-income and/or first-generation college students through the [Upward Bound Math Science (UBMS) program](https://www.nmt.edu/upward/upward.php). So I wanted to use these two weeks to do a bit more than just expose students to the wonders of the brain and behavior; I wanted to see if I could *inspire* them to pursue a career in science. 
