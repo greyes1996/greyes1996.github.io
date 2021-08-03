@@ -6,7 +6,7 @@ author_profile: true
 ---
 I am a (proud) native of Albuquerque, NM! Next year, I will be enrolling at Stanford as a PhD student in their [Developmental and Psychological Sciences program](https://ed.stanford.edu/academics/doctoral/daps) on a [Knight-Hennessy Scholarship](https://kh.stanford.edu). You can view my most current CV [**HERE.**]({{ site.url }}/assets/GabrielReyes_CV.pdf)
 
-Previously, I graduated from Brown University with an [Sc.B. in Cognitive Neuroscience](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/) under the mentorship of [Dr. Leslie Welch](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/leslie-welch) and [Dr. Monica Linden](https://vivo.brown.edu/display/ml32). Most recently, I graudaed from Columbia University with an [M.S. in Neuroscience & Education](https://www.tc.columbia.edu/biobehavioral-sciences/neuroscience-and-education/) on a [Gates Millennium Scholarship](gmsp.org). 
+Previously, I graduated from Brown University with an [Sc.B. in Cognitive Neuroscience](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/) under the mentorship of [Dr. Leslie Welch](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/leslie-welch) and [Dr. Monica Linden](https://vivo.brown.edu/display/ml32). Most recently, I graduated from Columbia University with an [M.S. in Neuroscience & Education](https://www.tc.columbia.edu/biobehavioral-sciences/neuroscience-and-education/) on a [Gates Millennium Scholarship](gmsp.org). 
 
 # **Contact me**
 
