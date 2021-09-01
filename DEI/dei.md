@@ -8,7 +8,11 @@ This page includes a summary of ongoing and past projects related to diversity, 
 
 # FLi Sci - A Website for First-Generation/Low-Income Scientists
 
-I created [FLi Sci](https://www.flisci.com/) as a result of both anger and love: frustrated with the lack of mechanisms to include poor people but optimistic that STEM fields do want to support us. The goal of the website is to consolidate resources for students to acquire skills integral to laboratory settings but without access.
+I created [FLi Sci](https://www.flisci.com/) as a result of both anger and love: frustrated with the lack of mechanisms to include poor people but optimistic that STEM fields do want to support us. 
+
+Currently, I am working with 4.0 Schools to establish FLi Sci as a 501(c)(3). To view working drafts of materials that illustrate the mission and vission of FLi Sci, please refer to the resources below:
+* [FLi Sci Theory of Change]({{ site.url }}/assets/FLi Sci Theory of Change.pdf)
+
 
 ## *FLi Sci Scholars Program*
 
