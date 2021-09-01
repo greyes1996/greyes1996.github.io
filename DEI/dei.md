@@ -6,7 +6,7 @@ permalink: /dei/
 ---
 This page includes a summary of ongoing and past projects related to diversity, equity, and inclusion (DEI) in science. 
 
-# FLi Sci - A Website for First-Generation/Low-Income Scientists
+# FLi Sci
 
 I created [FLi Sci](https://www.flisci.com/) as a result of both anger and love: frustrated with the lack of mechanisms to include poor people but optimistic that STEM fields do want to support us. 
 
