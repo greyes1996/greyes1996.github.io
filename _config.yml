@@ -20,7 +20,7 @@ title                    : "Gabriel Reyes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gabriel Reyes"
-description              : "Personal website of Gabriel Reyes, neuroscience and education graduate student at Columbia University"
+description              : "Personal website of Gabriel Reyes, graduate student at Stanford University"
 url                      : "https://greyes1996.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,16 +95,16 @@ analytics:
 author:
   name             : "Gabriel Reyes"
   avatar           : https://avatars3.githubusercontent.com/u/50083139?s=460&u=55169559c0c5b2646ed54b9d517973b5ec80b61c&v=4
-  bio              : "Incoming Developmental and Psychological Sciences PhD student at Stanford University"
-  location         : "New York, NY"
+  bio              : "PhD student in Developmental and Psychological Sciences at Stanford University"
+  location         : "Stanford, CA"
   email            : g.reyes0225@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:greyes0225@gmail.com
+      url: mailto:greyes0225@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://greyes1996.github.io"
+      url: "https://www.FLiSci.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BrainGabe"
