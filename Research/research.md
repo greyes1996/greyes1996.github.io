@@ -5,7 +5,10 @@ classes: wide
 permalink: /research/
 ---
 
-Starting Fall 2021, I will be joining Stanford to work with [Dr. Bruce McCandliss](https://edneuroinitiative.stanford.edu), [Dr. Jason Yeatman](https://www.brainandeducation.com), and [Dr. Jelena Obradović](https://sparklab.stanford.edu) doing research on related to brain development, learning, and stress. (More to come in the coming months — stay tuned!) 
+# Research at Stanford University
+Currently, I am being co-advised by [Dr. Bruce McCandliss](https://edneuroinitiative.stanford.edu), [Dr. Jason Yeatman](https://www.brainandeducation.com), and [Dr. Jelena Obradović](https://sparklab.stanford.edu) doing research on related to brain development, learning, and stress.
+
+Year 1 of the PhD program is heavily focused on courswork as we just adjusted to research on campus. More updates on tangible research projects to come!
 
 # Research at Columbia University
 ### *My Masters Thesis*
