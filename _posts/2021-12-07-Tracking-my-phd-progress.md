@@ -1,5 +1,5 @@
 ---
-titie: Tracking my Ph.D. Progress
+titie: Tracking my Doctoral Progress
 ---
 
 *This is a draft page! Content here is a work-in-progress and will be changing drastically over the next few weeks*
@@ -14,14 +14,14 @@ My program requires enrollment in our doctoral core each quarter (Proseminar I, 
 - [ ] DOCTORAL CORE — EDUC 325B Proseminar II (3 units)
 - [ ] DOCTORAL CORE — EDUC 325C Proseminar III (3 units)
 - [x] METHODS CORE — PSYCH 251 Experimental Methods (3 units)
-- [ ] METHODS CORE — PSYCH 289 Longitudinal Data Analysis (5 units)
 - [ ] METHODS CORE — EDUC 252 Introduction to Test Theory (3 units)
+- [ ] METHODS CORE - EDUC 464 Measuring Learning in the Brain (3 units)
 - [ ] GRADUATE RESIDENCY CREDIT TRANSFER — Transfer credits from Masters[^1]  (45 units)
 - [ ] DAPS COURSE #1 — EDUC 469 Workshop and Reading Group in Child Development (3 units)
 - [ ] DAPS COURSE #2 — EDUC 465 DAPS Faculty Seminar (3 units)
 - [ ] DAPS COURSE #3 — PSYCH 246 Cognition and Neuroscience Friday Seminar (3 units)
 - [ ] DAPS COURSE #4 — TBD
-- [ ] DIRECTED READING & RESEARCH — EDUC 480 and 490[^2] (61 units)
+- [ ] DIRECTED READING & RESEARCH — EDUC 480 and 490 (as many as it takes to reach 135 units)[^2] 
 
 # Research Goals + Projects
 - [ ] Yearly conference submission (Year 1)
