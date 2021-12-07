@@ -1,5 +1,5 @@
 ---
-titie: Tracking my PhD Progress
+titie: Tracking my Ph.D. Progress
 ---
 
 *This is a draft page! Content here is a work-in-progress and will be changing drastically over the next few weeks*
@@ -21,9 +21,25 @@ My program requires enrollment in our doctoral core each quarter (Proseminar I, 
 - [ ] DAPS COURSE #2 — EDUC 465 DAPS Faculty Seminar (3 units)
 - [ ] DAPS COURSE #3 — PSYCH 246 Cognition and Neuroscience Friday Seminar (3 units)
 - [ ] DAPS COURSE #4 — TBD
-- [ ] DIRECTED READING & RESEARCH — EDUC 480 and 490{^2] (61 units)
+- [ ] DIRECTED READING & RESEARCH — EDUC 480 and 490[^2] (61 units)
 
 # Research Goals + Projects
+- [ ] Yearly conference submission (Year 1)
+- [ ] Yearly conference submission (Year 2)
+- [ ] Yearly conference submission (Year 3)
+- [ ] Yearly conference submission (Year 4)
+- [ ] Yearly conference presentation (Year 1)
+- [ ] Yearly conference presentation (Year 2)
+- [ ] Yearly conference presentation (Year 3)
+- [ ] Yearly conference presentation (Year 4)
+- [ ] First-year Review
+- [ ] Second-year Review
+- [ ] Qualifying Paper
+- [x] Yearly fellowship/grant application (Year 1)
+- [ ] Yearly fellowship/grant application (Year 2)
+- [ ] Yearly fellowship/grant application (Year 3)
+- [ ] Yearly fellowship/grant application (Year 4)
+
 
 [^1]: Stanford allows students that posses a Masters degree to transfer credits to satisfy up to 45 units of the required 135 units for our Ph.D. So I will be transferring as many of my coursework as I possibly can to my degree. 
 
