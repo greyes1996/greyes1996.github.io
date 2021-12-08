@@ -108,9 +108,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BrainGabe"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/gabe.reyes.50"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/gabrielreyes19/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/greyes1996"
@@ -124,8 +124,8 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
