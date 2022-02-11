@@ -4,7 +4,6 @@ author_profile: true
 classes: wide
 permalink: /research/
 ---
-
 # Research at Stanford University
 
 Currently, I am being co-advised by [Dr. Bruce McCandliss](https://edneuroinitiative.stanford.edu), [Dr. Jason Yeatman](https://www.brainandeducation.com), and [Dr. Jelena Obradović](https://sparklab.stanford.edu) doing research related to brain development, learning, and stress.
