@@ -8,6 +8,16 @@ permalink: /teaching/
 
 This page includes a detailed account of my prior teaching experience. 
 
+# Stanford University
+
+## New Mexico Tech Upward Bound Math Science Program (Summer 2021)
+
+**More details to come soon!**
+
+## Northeastern Summer Math And Science Honors (SMASH) Academy (Summer 2021)
+
+**More details to come soon!**
+
 # Columbia University
 
 ## FLi Sci Scholars Program
