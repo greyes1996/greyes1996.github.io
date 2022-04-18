@@ -3,7 +3,7 @@ title: Teaching my first course - Intro to Cognitive Neuroscience!
 toc: true
 toc_label: Table of Contents
 ---
-I got to teach my first college-level course for students through the New Mexico Tech Upward Bound Math Science program!! I created my own class — in which I taught Cognitive Neuroscience! — *and* I taughtstudents that all identified as low-income and/or first-generation college students through the [Upward Bound Math Science (UBMS) program](https://www.nmt.edu/upward/upward.php). During these two weeks, I also wanted to do a bit more than just expose students to the wonders of the brain and behavior; I wanted to see if I could *inspire* them to envision for themselves a career in science. 
+I got to teach my first college-level course for students!! I created my own class — in which I taught Cognitive Neuroscience! — *and* I taught a group that all identified as low-income and/or first-generation college students through the [Upward Bound Math Science (UBMS) program](https://www.nmt.edu/upward/upward.php). During these two weeks, I also wanted to do a bit more than just expose students to the wonders of the brain and behavior; I wanted to see if I could *inspire* them to envision for themselves a career in science. 
 
 # Background
 
@@ -31,7 +31,7 @@ Prior to designing the course, I found an article by [McDonald et al. (2019)](ht
 {: .center}
 ![STEM_POI]({{ site.url }}/assets/STEM_PIO.jpg)
 
-Essentially, students were to look at the image and select the one that best resembles how much they feel their personal identity intersects with a STEM one (for example: if I were to answer this question using the image above as a framework, I would select ‘7’ as my response; as I feel that being a STEM professional fully aligns with my personal identity). I wanted to gauge how students perceived themselves at the start of the class and whether this changed by the end of the week [^2]. 
+Essentially, students were to look at the image and select the one that best resembles how much they feel their personal identity intersects with a STEM one (for example: if I were to answer this question using the image above as a framework, I would select ‘7’ as my response, as I feel that being a STEM professional fully aligns with my personal identity). I wanted to gauge how students perceived themselves at the start of the class and whether this changed by the end of the week [^2]. 
 
 While the paper that introduced provides some evidence that the single-assessment was sufficient to portray someone’s STEM elements, I did want to also include another battery that they referenced. Specifically, I wanted to use a set of questions from [Young et al. (2013)](https://journals.sagepub.com/doi/10.1177/0361684313482109), as it incorporated 9 additional questions to ascertain one’s proclivity to associate with STEM characteristics. However, I wanted to include a question of my own (Question 10) to acquire some future aspirations details. The following questions that were surveyed are as follows:
 1. Being a STEM student is an important reflection of who I currently am
