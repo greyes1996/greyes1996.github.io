@@ -6,9 +6,7 @@ permalink: /research/
 ---
 # Research at Stanford University
 
-Currently, I am being co-advised by [Dr. Bruce McCandliss](https://edneuroinitiative.stanford.edu), [Dr. Jason Yeatman](https://www.brainandeducation.com), and [Dr. Jelena Obradović](https://sparklab.stanford.edu) doing research related to brain development, learning, and stress.
-
-Year 1 of the PhD program is heavily focused on courswork as we just adjusted to research on campus. More updates on tangible research projects to come!
+I am a PhD student in the [Developmental and Psychological Sciences Program](https://ed.stanford.edu/academics/doctoral-handbook/courses/daps). I am broadly interested in researching how poverty affects psychological, cognitive, and neural development. A secondary research focus is on how groups historically excluded from academic opportunities develop a science identity. 
 
 # Research at Columbia University
 ### *My Masters Thesis*
