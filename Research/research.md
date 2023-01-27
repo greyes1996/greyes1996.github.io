@@ -4,6 +4,7 @@ author_profile: true
 classes: wide
 permalink: /research/
 ---
+
 # Research at Stanford University
 
 I am a PhD student in the [Developmental and Psychological Sciences Program](https://ed.stanford.edu/academics/doctoral-handbook/courses/daps). I am broadly interested in researching how poverty affects psychological, cognitive, and neural development. A secondary research focus is on how groups historically excluded from academic opportunities develop a science identity. 
