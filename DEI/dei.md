@@ -10,6 +10,10 @@ This page includes a summary of ongoing and past projects related to diversity, 
 
 I created [FLi Sci](https://www.flisci.org/) as a result of both anger and love: frustrated with the lack of mechanisms to include poor people but optimistic that STEM fields do want to support us. 
 
+Check out a video below highlighting FLi Sci
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=BNvq19VlH3s&t=1s" frameborder="0" allowfullscreen></iframe>
+
 To view working drafts of materials that illustrate the mission and vission of FLi Sci, please refer to the resources below:
 * [FLi Sci - Theory of Change]({{ site.url }}/assets/FLiSciToC.pdf)
 * [FLi Sci - Strategic Plan 2022-2026]({{ site.url }}/assets/FLi Sci Strategic Plan 2022 - 2026.pdf)
