@@ -7,7 +7,7 @@ permalink: /research/
 
 # Research at Stanford University
 
-I am a PhD student in the [Developmental and Psychological Sciences Program](https://ed.stanford.edu/academics/doctoral-handbook/courses/daps). I am broadly interested in researching how poverty affects psychological, cognitive, and neural development. A secondary research focus is on how groups historically excluded from academic opportunities develop a science identity. 
+I am a PhD student in the [Developmental and Psychological Sciences Program](https://ed.stanford.edu/academics/doctoral-handbook/courses/daps). My research interest focuses on the intricate interplay between poverty, psychology, and science education. Specifically, I am deeply passionate to understand the psychological effects of financial scarcity and uncertainty on children's and adolescent's motivations, self-perceptions, and educational choices, particularly in the context of science. By exploring the complex nexus of poverty, psychological factors, and academic aspirations, my work aims to uncover insights that caninform targeted interventions and policies, fostering equitable opportunities for all students to thirve in science and beyond.
 
 # Research at Columbia University
 ### *My Masters Thesis*
