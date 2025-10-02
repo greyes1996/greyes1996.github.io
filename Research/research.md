@@ -6,7 +6,14 @@ permalink: /research/
 ---
 
 # Research at Stanford University
-I am a PhD student in the [Developmental and Psychological Sciences Program](https://ed.stanford.edu/academics/doctoral-handbook/courses/daps). My research interest focuses on the intricate interplay between poverty, psychology, and science education. Specifically, I am deeply passionate to understand the psychological effects of financial scarcity and uncertainty on children's and adolescent's motivations, self-perceptions, and educational choices, particularly in the context of science. By exploring the complex nexus of poverty, psychological factors, and academic aspirations, my work aims to uncover insights that can inform policies to promote equitable opportunities for all students to thirve in science and beyond.
+I am a PhD student in the [Developmental and Psychological Sciences Program](https://ed.stanford.edu/academics/doctoral-handbook/courses/daps). My research interest focuses on the psychological and neurological imapcts of poverty on development and its implications for soceity. 
+
+<u>Manuscript in preparation:<u>
+
+
+<u>Published:<u>
+- Ellwood-Lowe, M.E., **Reyes, G.**, DeJoseph M.L., Frankenhuis W.E. (2025). Caring for children in lower-SES contexts: recognizing parents' agency, adaptivity, and resourcefulness. Invited paper for the Special Issue on Caregiving, *Daedalus* 154 (1): 52-69.[[pdf]](https://greyes1996.github.io/assets/Ellwood-Lowe)
+- DeJoseph, M.L., Ellwood-Lowe, M.E., Miller-Cotto, D., Silverman, D., Shannon, K.A., Reyes, G, Rakesh, D., Frankenhuis, W.E. (2024). The promise and pitfalls of a strengths-based approach to child poverty and neurocognitive development: Implications for policy. *Developmental Cognitive Neuroscience*, 101375. [[pdf]](https://greyes1996.github.io/assets/DeJoseph et al. (2024).pdf)
 
 # Research at Columbia University
 ### *My Masters Thesis*
